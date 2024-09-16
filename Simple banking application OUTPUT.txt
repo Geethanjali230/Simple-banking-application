@@ -1,0 +1,39 @@
+OUTPUT:
+
+welcome to the banking application
+option 1: check your balance
+option 2: deposit money
+option 3: withdraw money
+option 4: exit
+enter a option:
+1
+Your current balance is: 0
+welcome to the banking application
+option 1: check your balance
+option 2: deposit money
+option 3: withdraw money
+option 4: exit
+enter a option:
+2
+enter the amount to be deposited
+3000
+your amount is successfully deposited
+welcome to the banking application
+option 1: check your balance
+option 2: deposit money
+option 3: withdraw money
+option 4: exit
+enter a option:
+3  
+enter the amount to withdraw
+245
+your required amount is successfully withdrawed
+ the available balance is 2755
+welcome to the banking application
+option 1: check your balance
+option 2: deposit money
+option 3: withdraw money
+option 4: exit
+enter a option:
+4
+exit
